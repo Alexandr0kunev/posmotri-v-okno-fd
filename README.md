@@ -1,1 +1,1 @@
-https://github.com/Alexandr0kunev/posmotri-v-okno-fd#
+https://github.com/Alexandr0kunev/posmotri-v-okno-fd
